@@ -3,6 +3,10 @@
 ```
 pip install -r ../requirements.txt
 ```
+- Refer to `AllDependencies.txt` if any dependencies missed.
+```
+pip install missed_depency==version
+```
 ## Setting up protobuf
 - Set the environmental variable of protobuf as shown below.
 ```
